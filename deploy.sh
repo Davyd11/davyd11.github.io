@@ -11,4 +11,4 @@ touch docs/.nojekyll
 echo "davyd11.github.io" > docs/CNAME
 git add docs
 git commit -m "$(date)"
-git push origin main
+git push origin master
