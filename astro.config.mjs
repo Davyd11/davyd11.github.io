@@ -11,6 +11,7 @@ export default /** @type {import('astro').AstroUserConfig} */ ({
 	// Enable the Preact renderer to support Preact JSX components.
 	renderers: ['@astrojs/renderer-preact'],
 	buildOptions: {
-		site: 'https://davydpr.com/',
+		//site: 'https://davydpr.com/',
+		site: 'https://davyd11.github.io/',
 	},
 });
