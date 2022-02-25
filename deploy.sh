@@ -8,7 +8,7 @@ npm run build
 rm -rf docs
 mv dist docs
 touch docs/.nojekyll
-echo "davyd11.github.io" > docs/CNAME
+echo "davydpr.com" > docs/CNAME
 git add docs
 git commit -m "$(date)"
 git push origin master
