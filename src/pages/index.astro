@@ -3,6 +3,8 @@
 import BaseHead from '../components/BaseHead.astro';
 import BlogHeader from '../components/BlogHeader.astro';
 import BlogPostPreview from '../components/BlogPostPreview.astro';
+import BlogFooter from '../components/BlogFooter.astro';
+
 
 interface MarkdownFrontmatter {
 	publishDate: number;
@@ -79,6 +81,7 @@ allPosts = allPosts.sort((a, b) => new Date(b.publishDate).valueOf() - new Date(
 				</section>
 			</main>
 		</div>
+		<BlogFooter />
 	</body>
 	<head></head>
 </html>

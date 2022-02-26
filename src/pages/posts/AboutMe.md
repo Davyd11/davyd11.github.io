@@ -13,7 +13,7 @@ description: Hi, my name is David Puente and this is my blog.
 
 # Welcome to my blog!
 
-Hi, my name is David Puente and I'm a software developer and a cibersecurity researcher.
+Hi, my name is David Puente and I'm a software developer and a cibersecurity researcher ⚇.
 
 
 <!-- Do variables work {frontmatter.value * 2}? -->
