@@ -7,8 +7,9 @@
 	--color-white: #fff;
 	--color-black: #000014;
 
-	--color-text: #edf4fd;
-	--color-background: #232530;
+	--color-text: #FDF0ED;
+	--color-background: #1A1C23;
+	--color-decor: #07DA8C;
 
 	--color-gray-50: #f9fafb;
 	--color-gray-100: #f3f4f6;
@@ -59,8 +60,8 @@
 body {
 	/* background: var(--theme-bg);
 	color: var(--theme-text); */
-	background: var(--theme-bg);
-	color: var(--theme-text);
+	background: var(--color-white);
+	color: var(--color-black);
 }
 
 :root.theme-dark {
