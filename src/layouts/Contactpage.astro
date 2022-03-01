@@ -1,0 +1,26 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import BlogHeader from '../components/BlogHeader.astro';
+import Contactpage from '../components/Contactpage.astro';
+import BlogFooter from '../components/BlogFooter.astro';
+
+
+const { content } = Astro.props;
+const { title, description, publishDate, author, heroImage, permalink, alt } = content;
+---
+
+<html lang={content.lang || 'en'}>
+	<head>
+		<BaseHead {title} {description} {permalink} />
+	</head>
+
+	<body>
+		<BlogHeader />
+		<div class="wrapper">
+			<Contactpage {title} {author} {heroImage} {publishDate} {alt}>
+				<slot />
+			</Contactpage>
+		</div>
+		<BlogFooter />
+	</body>
+</html>
