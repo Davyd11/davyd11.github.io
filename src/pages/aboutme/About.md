@@ -13,7 +13,10 @@ name: David Puente
 
 # David Puente Rodríguez
 
-Hi, my name is David Puente and I'm a software developer and a cibersecurity researcher. I'm currently studyn computer science in 42 Madrid...
+Hi, my name is David Puente and I'm a software developer and a cibersecurity researcher. I'm currently studying computer science and cybersecurity at 42 Madrid.
+
+
+<!-- ![Img](../../../docs/assets/blog/introducing-astro.jpg "IMG_DP") -->
 
 
 <!-- Do variables work {frontmatter.value * 2}? -->
