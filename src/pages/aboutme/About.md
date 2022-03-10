@@ -13,10 +13,12 @@ name: David Puente
 
 # David Puente Rodríguez
 
-Hi, my name is David Puente and I'm a software developer and a cibersecurity researcher. I'm currently studying computer science and cybersecurity at 42 Madrid.
+<!-- <img src="../../../docs/assets/images/Aboutme/43%203.jpg" alt="IMG_DP" width="100%"/> -->
 
+Hi, my name is David Puente, and I'm a cybersecurity professional and researcher. I'm currently studying computer science and cybersecurity at 42 Madrid.
 
-<!-- ![Img](../../../docs/assets/blog/introducing-astro.jpg "IMG_DP") -->
+My goal is to share quality cybersecurity content, my learning path and my knowledge.
 
+You can reach me, following [these steps](/contact/Contact).
 
-<!-- Do variables work {frontmatter.value * 2}? -->
+PGP Public key : ```Coming soon```

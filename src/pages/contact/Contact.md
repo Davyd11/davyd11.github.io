@@ -15,9 +15,9 @@ title: Get in touch
 
 ### If you want to get in touch with me privately, please follow the steps below.<br><br>
 
-- Encript your message using [GnuPG](https://gnupg.org/)
-- Use my public to encrypt the message: <br>```Coming soon```
-- Contact me throught the following email: <br>```Coming soon```
+- Encript your message using [GnuPG](https://gnupg.org/) 🔒
+- Use my public key to encrypt the message: <br>```Coming soon```
+- Contact me throught this email: <br>```Coming soon```
 
 
 <!-- Do variables work {frontmatter.value * 2}? -->
